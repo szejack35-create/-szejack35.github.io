@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Ben Wong Siew Hei</title>
+
+<style>
+
+body{font-family:Arial;margin:0;background:#f3f5f3;padding:20px}
+
+.card{max-width:500px;margin:auto;background:white;border-radius:20px;overflow:hidden;box-shadow:0 5px 20px #999}
+
+.top{background:#15934e;color:white;padding:25px}
+
+.top h2{margin:0;font-size:22px}
+
+.top p{margin:8px 0 0}
+
+.content{padding:25px}
+
+h1{margin:0;color:#163c28;font-size:28px}
+
+.role{margin:8px 0 25px}
+
+.info{margin:15px 0}
+
+.label{color:#777;font-size:12px}
+
+.buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:25px}
+
+a{padding:14px;text-align:center;text-decoration:none;background:#15934e;color:white;border-radius:10px;font-weight:bold}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<div class="top">
+
+<h2>HAMZAH SULAIMAN & PARTNERS</h2>
+
+<p>Peguambela & Peguamcara (Advocates & Solicitors)</p>
+
+</div>
+
+<div class="content">
+
+<h1>BEN WONG SIEW HEI</h1>
+
+<div class="role">LL.B. (HONS) London<br>Administrative Executive</div>
+
+<div class="info">
+
+<div class="label">MOBILE</div>
+
+017-629 2138
+
+</div>
+
+<div class="info">
+
+<div class="label">OFFICE</div>
+
+04-227 7711
+
+</div>
+
+<div class="info">
+
+<div class="label">FAX</div>
+
+04-227 7771
+
+</div>
+
+<div class="info">
+
+<div class="label">EMAIL</div>
+
+hamzahpg@hsap.com.my
+
+</div>
+
+<div class="info">
+
+<div class="label">ADDRESS</div>
+
+Suite 13-02, Level 13, Menara Penang Garden,<br>
+
+42A, Jalan Sultan Ahmad Shah,<br>
+
+10050 Penang.
+
+</div>
+
+<div class="buttons">
+
+<a href="tel:+60176292138">CALL</a>
+
+<a href="https://wa.me/60176292138">WHATSAPP</a>
+
+<a href="mailto:hamzahpg@hsap.com.my">EMAIL</a>
+
+<a href="tel:+6042277711">OFFICE</a>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
